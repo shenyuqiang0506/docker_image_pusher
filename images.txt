@@ -2,6 +2,6 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-homeassistant/homeassistant:latest
+homeassistant/home-assistant
 portainer/portainer-ce:alpine-sts
 mysql/mysql:latest
