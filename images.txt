@@ -4,4 +4,4 @@ kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 homeassistant/home-assistant
 portainer/portainer-ce:alpine-sts
-mysql/mysql:latest
+mysql:latest
