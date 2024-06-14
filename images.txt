@@ -5,3 +5,4 @@ kasmweb/nginx:1.25.3
 homeassistant/home-assistant
 portainer/portainer-ce:alpine-sts
 mysql:latest
+outlovecn/portainer-cn
