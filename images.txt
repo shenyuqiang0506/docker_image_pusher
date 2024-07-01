@@ -6,3 +6,4 @@ homeassistant/home-assistant
 portainer/portainer-ce:alpine-sts
 mysql:latest
 outlovecn/portainer-cn
+ghcr.io/anduin2017/how-to-cook:latest
