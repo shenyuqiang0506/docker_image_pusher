@@ -8,3 +8,4 @@ python
 outlovecn/portainer-cn
 xhofe/alist:latest
 uozi/nginx-ui:latest
+homeassistant/home-assistant
