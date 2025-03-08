@@ -11,3 +11,4 @@ uozi/nginx-ui:latest
 homeassistant/home-assistant
 tangyoha/telegram_media_downloader:latest
 bytemark/webdav
+b3log/siyuan
